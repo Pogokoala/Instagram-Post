@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+.svg1 {
+    margin-right: 6px;
+    margin-top: 6px;
+    padding-left: 5px;
+    background-color: white;
+}
+.svg2 {
+    margin:auto;
+    margin-right: 5%;
+    margin-bottom: 25px;
+}
+.svg3 {
+    background-color: white;
+    padding:10px;
+}
+.title {
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: absolute;
+    margin:auto;
+    margin-left: 0px;
+    padding: 5px;
+    padding-left: 15px;
+    background-color: white;
+}
+.container {
+    width: 400px;
+    margin: auto;
+    padding: 50px;
+
+}
+.post {
+    background: white;
+    padding-top: 1px;
+    padding-bottom:2px;
+
+}
+span {
+    background-color: white;
+    margin-bottom: 15px;
+}
+.span2 {
+    background-color: white;
+    padding-left: 8px;
+    padding-right:8px;
+    font-size: 90%;
+    margin-left: 5px;
+}
+.span3 {
+    font-size: 118%;
+}
+p {
+    background-color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 90%;
+    margin-left: 5px;
+}
+.svg4 {
+    margin:auto;
+    margin-bottom: 6px;
+    margin-left: 180px;
+}
