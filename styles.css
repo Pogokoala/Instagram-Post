@@ -9,8 +9,8 @@ body {
 }
 .svg2 {
     margin:auto;
-    margin-right: 5%;
-    margin-bottom: 25px;
+    margin-right: 7px;
+    margin-bottom: 18px;
 }
 .svg3 {
     background-color: white;
@@ -18,25 +18,24 @@ body {
 }
 .title {
     display: flex;
-    /* flex-direction: row; */
-    justify-content: absolute;
     margin:auto;
-    margin-left: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
     padding: 5px;
-    padding-left: 15px;
+    padding-left: 3px;
+    padding-right:3px;
     background-color: white;
 }
 .container {
     width: 400px;
     margin: auto;
     padding: 50px;
-
 }
 .post {
     background: white;
     padding-top: 1px;
     padding-bottom:2px;
-
+    border-radius: 15px;
 }
 span {
     background-color: white;
